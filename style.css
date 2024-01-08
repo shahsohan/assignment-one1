@@ -139,3 +139,37 @@ body {
     width: 700px;
     margin-bottom: 0px;
 }
+main{
+    margin-left: 310px;
+    
+    
+}
+.main-section-p1{
+    color: #F00;
+font-size: 25px;
+font-weight: 500;
+margin-top: 0%;
+    margin-bottom: 0px;
+
+}
+.main-section-heading{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    margin-top: 16px;
+    margin-bottom: 0px;
+    /* padding-top: 0%; */
+}
+.main-section-description{
+    color: #07021199;
+    font-size: 20px;
+    width: 1000px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+
+
+.portfolio-image{
+    padding: 10px 10px 10px 10px;
+}
