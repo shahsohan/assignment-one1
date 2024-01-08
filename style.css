@@ -6,12 +6,12 @@ body {
 
 /* Banner Image  */
 .image {
-    
+
     background-image: url('images/Banner\ Image.png');
-    
+
     position: relative;
     display: block;
-    
+
     filter: brightness(95%);
     padding: 10%;
     margin-left: 310px;
@@ -82,29 +82,21 @@ body {
 /* mid background image  */
 
 #image {
-    
-    
     background-image: url('images/Vectorrr.png');
-    /* margin-left: 310px;
-    justify-content: space-between;
-    
-    display: flex;
-    align-items: center;
-    background-repeat: no-repeat;
-    margin-top: 100px;
-    padding: 10%;    */
     display: flex;
     align-items: center;
     background-repeat: no-repeat;
     padding: 100px;
     margin-left: 310px;
 }
-.img-text{
+
+.img-text {
     margin-top: 0px;
     padding-top: 0px;
     margin-bottom: 20px;
     margin-left: 0px;
 }
+
 .btn-class {
     border-radius: 5px;
     background-color: none;
@@ -114,16 +106,17 @@ body {
     font-weight: 700;
     margin-top: 40px;
 }
-.banner-iamge{
+
+.banner-iamge {
     padding-left: 100px;
-   
+
 }
 
 
 .welcome-class {
     margin-top: 0%;
     margin-bottom: 10px;
-    
+
     color: #FFF;
     font-size: 65px;
     font-weight: 900;
@@ -139,20 +132,22 @@ body {
     width: 700px;
     margin-bottom: 0px;
 }
-main{
+/* main section style */
+
+main {
     margin-left: 310px;
-    
-    
 }
-.main-section-p1{
+
+.main-section-p1 {
     color: #F00;
-font-size: 25px;
-font-weight: 500;
-margin-top: 0%;
+    font-size: 25px;
+    font-weight: 500;
+    margin-top: 0%;
     margin-bottom: 0px;
 
 }
-.main-section-heading{
+
+.main-section-heading {
     color: #070211;
     font-family: Merriweather;
     font-size: 48px;
@@ -161,7 +156,8 @@ margin-top: 0%;
     margin-bottom: 0px;
     /* padding-top: 0%; */
 }
-.main-section-description{
+
+.main-section-description {
     color: #07021199;
     font-size: 20px;
     width: 1000px;
@@ -169,7 +165,15 @@ margin-top: 0%;
     margin-bottom: 50px;
 }
 
-
-.portfolio-image{
+.portfolio-image {
     padding: 10px 10px 10px 10px;
+}
+.subscribe-part{
+border-radius: 15px;
+    text-align: center;
+    background-color: #ff00000d;
+    margin-top: 80px;
+    margin-bottom: 180px;
+    margin-right: 240px;
+    padding: 100px;
 }
