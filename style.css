@@ -6,10 +6,13 @@ body {
 
 /* Banner Image  */
 .image {
+    
     background-image: url('images/Banner\ Image.png');
+    
     position: relative;
     display: block;
-    filter: brightness(85%);
+    
+    filter: brightness(95%);
     padding: 10%;
     margin-left: 310px;
     margin-top: 40px;
@@ -51,7 +54,7 @@ body {
     font-family: Inter;
     text-align: center;
 
-    margin-bottom: 10px;
+    margin-bottom: 120px;
     margin-top: 0px;
 
 }
@@ -82,27 +85,45 @@ body {
     
     
     background-image: url('images/Vectorrr.png');
-    margin-left: 310px;
+    /* margin-left: 310px;
     justify-content: space-between;
+    
     display: flex;
+    align-items: center;
     background-repeat: no-repeat;
     margin-top: 100px;
-    padding: 10%;
-    
-
-    
+    padding: 10%;    */
+    display: flex;
+    align-items: center;
+    background-repeat: no-repeat;
+    padding: 100px;
+    margin-left: 310px;
+}
+.img-text{
+    margin-top: 0px;
+    padding-top: 0px;
+    margin-bottom: 20px;
+    margin-left: 0px;
 }
 .btn-class {
     border-radius: 5px;
-    background-color: #f1701a;
-    color: #FFF;
+    background-color: none;
+    color: #141313;
     text-align: center;
     font-size: 20px;
     font-weight: 700;
+    margin-top: 40px;
+}
+.banner-iamge{
+    padding-left: 100px;
+   
 }
 
 
 .welcome-class {
+    margin-top: 0%;
+    margin-bottom: 10px;
+    
     color: #FFF;
     font-size: 65px;
     font-weight: 900;
@@ -111,8 +132,10 @@ body {
 }
 
 .welcome-description {
-    color: aliceblue;
+
+    color: #FFFFFFCC;
     font-size: 18px;
     font-weight: 400;
     width: 700px;
+    margin-bottom: 0px;
 }
