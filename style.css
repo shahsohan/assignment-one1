@@ -19,9 +19,9 @@ body {
 
 .top-banner-text {
     position: relative;
-    
+
     /* filter: brightness(100%); */
-    
+
     padding-left: 180px;
     margin-top: 0%;
     width: 602px;
@@ -47,14 +47,15 @@ body {
 }
 
 /* step 2 60% off page  */
-.off-div{
+.off-div {
     font-family: Inter;
     text-align: center;
-    
+
     margin-bottom: 10px;
     margin-top: 0px;
 
 }
+
 .off-heading {
     color: #F00;
     font-size: 60px;
@@ -65,8 +66,7 @@ body {
 
 .off-description {
     color: #F00;
-    font-size: 24px
-    font-weight: 500;
+    font-size: 24px font-weight: 500;
 }
 
 .off-h2 {
@@ -75,5 +75,44 @@ body {
     font-weight: 700;
     margin-top: 5px;
 }
+
 /* mid background image  */
 
+#image {
+    
+    
+    background-image: url('images/Vectorrr.png');
+    margin-left: 310px;
+    justify-content: space-between;
+    display: flex;
+    background-repeat: no-repeat;
+    margin-top: 100px;
+    padding: 10%;
+    
+
+    
+}
+.btn-class {
+    border-radius: 5px;
+    background-color: #f1701a;
+    color: #FFF;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+
+.welcome-class {
+    color: #FFF;
+    font-size: 65px;
+    font-weight: 900;
+    line-height: 88px;
+    width: 650px;
+}
+
+.welcome-description {
+    color: aliceblue;
+    font-size: 18px;
+    font-weight: 400;
+    width: 700px;
+}
