@@ -218,3 +218,70 @@ main {
     color: #fff;
     border: 0px;
 }
+
+/* Footer section  */
+.web-link {
+    text-align: center;
+}
+
+footer {
+    background-color: #070211;
+    width: ;
+    height: 700px;
+}
+
+.footer-column {
+    color: #fff;
+    padding-left: 320px;
+}
+
+hr {
+    width: 1310px;
+    height: 0.1px;
+    color: #ffffff26;
+    margin-right: 250px;
+
+}
+
+.left-side-top {
+    padding-top: 120px;
+    padding-bottom: 0px;
+
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.left-side-bottom {
+    padding-top: 80px;
+    padding-bottom: 0px;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.right-side-num {
+    margin-top: 0px;
+
+    padding-bottom: 0px;
+}
+
+.footer-column-right-top {
+    text-align: right;
+    color: #fff;
+    padding-top: 0px;
+    padding-bottom: 50px;
+    padding-right: 350px;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.right-side-bottom {
+    text-align: right;
+    color: #fff;
+    padding-right: 250px;
+    
+    font-size: 24px;
+    font-weight: 500;
+    padding-top: 0px;
+    margin-bottom: 20px;
+}
